@@ -19,7 +19,8 @@ This is a PyTorch implementation of the "Multi-Level Attention Networks for Synt
 ## test:
 -      python test.py
 
-
+# Contact me
+e-mail: zengzq@buaa.edu.cn
 
 
 # Citations
