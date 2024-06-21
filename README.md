@@ -12,10 +12,10 @@ This is a PyTorch implementation of the "Multi-Level Attention Networks for Synt
 
 # Usage
 trian: 
--    trian.pt
+-   python trian.pt
 
 test:
--    test.py
+-   python test.py
 
 
 
